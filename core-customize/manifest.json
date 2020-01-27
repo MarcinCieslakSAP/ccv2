@@ -272,7 +272,7 @@
         {
      	      "key":"csrf.allowed.url.patterns",
      	      "value":"/[^/]+(/[^?]*)+(sop/response)$,/[^/]+(/[^?]*)+(merchant_callback)$,/[^/]+(/[^?]*)+(hop/response)$,/[^/]+(/[^?]*)+(language)$,/[^/]+(/[^?]*)+(currency)$,/(events)$"
-    	},
+    	}
 
     ],
    "aspects": [
