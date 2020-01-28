@@ -244,27 +244,27 @@
         },
         {
             "addon": "acceleratorwebservicesaddon",
-            "storefront": "yacceleratorstorefront",
+            "storefront": "ycommercewebservices",
             "template": "ycommercewebservices"
         },
         {
             "addon": "consignmenttrackingoccaddon",
-            "storefront": "yacceleratorstorefront",
+            "storefront": "ycommercewebservices",
             "template": "ycommercewebservices"
         },
         {
             "addon": "customerinterestsoccaddon",
-            "storefront": "yacceleratorstorefront",
+            "storefront": "ycommercewebservices",
             "template": "ycommercewebservices"
         },
         {
             "addon": "notificationoccaddon",
-            "storefront": "yacceleratorstorefront",
+            "storefront": "ycommercewebservices",
             "template": "ycommercewebservices"
         },
         {
             "addon": "cmsoccaddon",
-            "storefront": "yacceleratorstorefront",
+            "storefront": "ycommercewebservices",
             "template": "ycommercewebservices"
         }
     ],
